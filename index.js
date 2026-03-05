@@ -1,4 +1,7 @@
 console.log("Welcome to the git course");
+for(var i=0;i<5;i++){
+    console.log("code");
+}
 
 /* PS C:\Users\barath\OneDrive\OneDrive\Music\Git> git config --global init.defaultBranch main
 PS C:\Users\barath\OneDrive\OneDrive\Music\Git> git init
